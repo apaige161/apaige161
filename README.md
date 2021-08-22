@@ -19,8 +19,8 @@ Besides from my day job, I am developing a garden planner/tracker. I hope to fin
 it needs some essentials and more polishing.
 
 ## Main Skills
-HTML, CSS, Javascript/Typescript, angular, node, mongoDb
-Software testing, LabVIEW
+HTML, CSS, Javascript/Typescript, angular, node, mongoDb,
+Software testing, LabVIEW,
 github, zenhub, jira, scrum, agile
 
 ## Noteable Repos

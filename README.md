@@ -20,13 +20,13 @@ it needs some essentials and more polishing.
 
 ## Main Skills
 HTML, CSS, Javascript/Typescript, angular, node, mongoDb,
-Software testing, LabVIEW,
-github, zenhub, jira, scrum, agile
+Software testing, LabVIEW, TestStand
+github, zenhub
 
 ## Noteable Repos
--https://github.com/apaige161/tic-tac-toe
--https://github.com/apaige161/angular-farm-client
--https://github.com/apaige161/Twitter_Bot
+-Logic https://github.com/apaige161/tic-tac-toe
+-Design https://github.com/apaige161/angular-farm-client
+-Command Line Tool https://github.com/apaige161/Twitter_Bot
 
 
 <!---

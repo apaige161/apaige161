@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex Paige
 - 👀 I’m interested in gardening, writing code, and learning new things
-- 🌱 I’m currently learning QA working with embedded systems in a mutli deminsional engineering process
-- 💞️ I’m looking to collaborate on anything to do with robotics, agriculture, or blockchain
+- 🌱 I’m currently learning QA working with embedded systems
+- 💞️ I’m looking to collaborate on anything interesting
 
 ### Before software
 Graduated from university in 2013 with a degree in forestry. Since then I spent 10 years in the tree industry. 
@@ -14,14 +14,12 @@ Like after climbing that first tree and seeing the city from a squirrel's view, 
 The tutorials I was watching were way over my head, at first. I would sleep on certain concepts that would become clear with time.
 This gave me the ability to start my own small personal projects. This is where I started to pick up speed. Challenge. Overcome. Repeat.
 
-### Looking forward
-Besides from my day job, I am developing a garden planner/tracker. I hope to finish a MVP by the end of 2021. It does a lot of thing well but
-it needs some essentials and more polishing.
+### Current Project
+Besides from my day job, I am developing an app to show the scratchoff tickets with the best odds.
 
 ## Main Skills
 HTML, CSS, Javascript/Typescript, angular, node, mongoDb,
 Software testing, LabVIEW, TestStand
-github, zenhub
 
 ## Noteable Repos
 -Logic https://github.com/apaige161/tic-tac-toe

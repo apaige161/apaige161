@@ -15,7 +15,7 @@ The tutorials I was watching were way over my head, at first. I would sleep on c
 This gave me the ability to start my own small personal projects. This is where I started to pick up speed. Challenge. Overcome. Repeat.
 
 ### Current Project
-Besides from my day job, I am developing an app to show the scratchoff tickets with the best odds.
+Besides from my day job, I am developing an app to give calculated predictions on a personal level for sports.
 
 ## Main Skills
 HTML, CSS, Javascript/Typescript, angular, node, mongoDb,
